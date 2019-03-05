@@ -1,0 +1,249 @@
+
+	/* LG Device :992px. */
+	@media (min-width: 0px) and (max-width: 992px) {
+	   .carousel-detelis h2{
+	    font-size: 28px;
+	    padding-bottom: 15px;
+	   }
+	   .carousel-detelis p{
+	   	font-size: 16px ;
+	   	padding-bottom: 15px;
+	   }
+	   .carousel-detelis .btn{
+	   	width: 150px;
+	   	height: 50px;
+	   }
+	   .about-section{
+	   	padding: 25px 0px ;
+	   }
+	   .about-detelis h3{
+	   	font-size: 16px ;
+	   }
+	   .about-detelis h1{
+	   	 font-size: 16px ;
+	   	 padding-bottom: 0px ;
+	   }
+	   .about-detelis-box{
+	   	padding: 5px ;
+	   }
+	   .about-detelis-box h2{
+	   	font-size: 16px ;
+	   }
+	   .about-detelis-box p{
+	   	font-size: 14px ;
+	   }
+	   .service-section{
+	     padding: 25px 0px;
+	   }
+	   .icon-section {
+	   	padding: 0px;
+	   }
+	   .service-detelis h2{
+	   	font-size: 19px;
+	   	padding-bottom: 6px;
+	   }
+	   .service-detelis p{
+	   	font-size: 12px;
+	   	line-height: 20px;
+	   	font-weight: 400;
+	   }
+	   .priceing-section{
+	   	padding: 25px 0px;
+	   }
+	   .our_blog{
+	   	padding: 25px 0;
+	   }
+	   .bolg-detelis h2{
+	   	font-size: 18px;
+	   	letter-spacing: 0;
+	   	padding-bottom: 8px;
+	   }
+	   .bolg-detelis p{
+	   	font-size: 15px;
+	   	letter-spacing: 0;
+	   	text-align: justify;
+	   }
+	   .work_area{
+	   	padding: 25px 0px;
+	   }
+	   .our_team{
+	   	padding: 25px 0px;
+	   }
+	.nav-link {
+		color: #fff !important;
+		margin: 0 10px;
+		text-align: center;
+		width: 100%;
+
+	}	
+		.nav-link:hover{
+			color: #2d704a !important;
+			background: #373742;
+			
+		}
+	   .navbar{
+       	background: #000;
+       }
+       .navbar.black{
+       	background: #000;
+       }
+	}
+
+	 
+	/* MD Device :768px. */
+	@media (min-width: 0px) and (max-width: 768px) {
+	  .carousel-detelis h2{
+	  	font-size: 22px;
+	  	padding-bottom: 5px;
+	  }
+	  .carousel-detelis p{
+	  	font-size: 14px;
+	  }
+	  .about-section{
+	  	padding: 25px 0px;
+	  }
+	  .about-detelis h3{
+	  	font-size: 15px;
+	  }
+	  .about-detelis h1{
+	  	font-size: 14px;
+	  	padding-bottom: 0;
+
+	  }
+	  .about-detelis-box{
+	  	padding: 0px;
+	  }
+	  .about-detelis-box h2{
+	  	font-size: 15px;
+	  	letter-spacing: 0;
+	  }
+	  .about-detelis-box p{
+	  	font-size: 12px;
+	  }
+	  .service-section{
+	  	padding: 25px 0px;
+	  }
+	  .service-detelis{
+	  	padding: 10px;
+	  }
+	  .service-detelis h2{
+	  	font-size: 17px;
+	  	padding-bottom: 5px;
+	  	color: #000;
+	  	font-weight: 700;
+	  }
+	  .service-detelis-section p{
+	  	max-width: 500px;
+	  }
+	  .service-detelis p{
+	  	font-size: 14px;
+	  	line-height: 20px;
+	  }
+	  .priceing-section{
+	  	padding: 25px 0px;
+	  }
+	  .priceing-section p{
+	  	max-width: 580px;
+	  }
+	  .priceing-box{
+	  	padding: 10px 0;
+	  }
+	  .priceing-helf{
+	  	padding: 5px 0px;
+	  }
+	  .counter-box h2{
+	  	font-size: 19px;
+	  }
+	  .bolg-detelis h2{
+	  	font-size: 13px;
+	  	letter-spacing: 0;
+	  	padding-top: 5px;
+	  	padding-bottom: 5px;
+	  }
+	  .bolg-detelis{
+	  	padding: 5px;
+	  }
+	  .bolg-detelis h6{
+	  	font-size: 12px;
+	  }
+	  .our_blog{
+	  	padding: 25px 0px;
+	  }
+	  .work_area{
+	  	padding: 25px 0px;
+	  }
+	  .our_team{
+	  	padding: 25px 0px;
+	  }
+	  .tm_detelis h2{
+	  	font-size: 20px;
+	  }
+	  .contact_sections{
+	  	padding: 25px 0;
+	  }
+	  .contact_sections h3{
+	  	font-size: 30px;
+	  }
+	  .contact_sections p{
+	  	font-size: 15px;
+	  	padding-top: 0px;
+	  }
+	  .carousel-detelised{
+		width: 44%;
+		left: 50%;
+		top: 38%;
+	  }
+	  .navbar{
+       	background: #000;
+       }
+       .navbar.black{
+       	background: #000;
+       }
+	}
+
+	 
+	/* Extra small Device. */
+
+	@media (min-width: 0px) and (max-width: 320px) {
+
+		.carousel-detelis h2{
+			font-size: 15px;
+		}
+		.carousel-detelis p{
+			max-width:600px;
+			font-size: 12px
+		}
+			.carousel-detelis .btn {
+			float: left;
+			padding: 0;
+			margin: 7px 0;
+		   }
+		   .owl_img_sc{
+		   	left: 27%;
+		   }
+		  
+		   .footer_icon{
+		   	text-align: left;
+		   }
+		 .carousel-detelised{
+			width: 100%;
+			left: 50%;
+			top: 38%;
+	 }
+		  .navbar-light .navbar-brand{
+		  	padding: 10px;
+		  }
+		  .navbar-toggler{
+	       margin: 0 5px;
+       }
+       .overlay2{
+       	height: 621px;
+       }
+       .navbar{
+       	background: #000;
+       }
+       .navbar.black{
+       	background: #000;
+       }
+
+ }	
